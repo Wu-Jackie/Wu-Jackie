@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Wu-Jackie/Wu-Jackie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+[![Wu-Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wu-Jackie&hide=contribs,prs,issues&show_icons=true)](https://github.com/Wu-Jackie)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NUC在校大学生
+
+- CTFer
+
+- CSDN@[Jackie-w](https://blog.csdn.net/qq_46398697?type=blog)
+  
+- [Blog]()
+
+---
+
+無限進步！
