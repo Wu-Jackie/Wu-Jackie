@@ -1,8 +1,6 @@
-# Hi there 👋
+# 👋About Me
 
-# About Me
-
-[![Wu-Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wu-Jackie&hide=contribs,prs,issues&show_icons=true)](https://github.com/Wu-Jackie)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Wu-Jackie&hide=contribs,prs,issues&show_icons=true">
 
 - NUC在校大学生
 
