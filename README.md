@@ -8,9 +8,11 @@
 
 - CTFer
 
-- CSDN@[Jackie-w](https://blog.csdn.net/qq_46398697?type=blog)
-  
-- [Blog]()
+- [Blog](Wu-Jackie.github.io)
+
+- CSDN@[Jackie-w](https://blog.csdn.net/qq_46398697?type=blog)[^1]
+
+[^1]: 即将弃用，后续将在github上更新文章
 
 ---
 
