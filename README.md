@@ -1,12 +1,12 @@
 # 👋About Me
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Wu-Jackie&hide=contribs,prs&show_icons=true&line_height=33&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" width="400">
+<img align='right' src="https://github-stats-extended.vercel.app/api?username=Wu-Jackie&hide=contribs&show_icons=true&line_height=33&include_all_commits=true&theme=light_github" width="400">
 
-- NUCer
+- Bachelor of Computer Science and Technology
 
 - Cyber Security Enthusiast
 
-- Mail:jackie143336@foxmail.com
+- Mail: jackie143336@foxmail.com
 
 - [Blog](https://wu-jackie.github.io/)
 
